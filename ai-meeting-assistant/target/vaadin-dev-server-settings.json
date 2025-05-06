@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/LENOVO/Desktop/ai-meeting-assistant/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/LENOVO/Desktop/ai-meeting-assistant/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/LENOVO/Desktop/ai-meeting-assistant/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\LENOVO\\Desktop\\ai-meeting-assistant\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\LENOVO\\Desktop\\ai-meeting-assistant\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/LENOVO/Desktop/ai-meeting-assistant/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/LENOVO/Desktop/ai-meeting-assistant/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/LENOVO/Desktop/ai-meeting-assistant/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\LENOVO\\Desktop\\ai-meeting-assistant\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
